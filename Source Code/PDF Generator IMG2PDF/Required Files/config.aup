@@ -1,0 +1,3 @@
+APPLICATION_NAME=PDF Generator IMG2PDF
+EXECUTABLE=PDF Generator IMG2PDF.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/PDF Generator IMG2PDF/manifest.xml
